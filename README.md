@@ -1,2 +1,2 @@
 # Web-Development-Projects-
-In this repository i provide my web development journey projects
+In This repository i uploaded the code to create the fun project to show fake hacking.
